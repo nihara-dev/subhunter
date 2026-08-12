@@ -43,6 +43,8 @@ python subhunter.py -d example.com -o results.txt
   www.example.com                              93.184.216.34
   ...
 ```
+## Screen Shot 
+<img width="897" height="885" alt="image" src="https://github.com/user-attachments/assets/4bf847cb-e9cb-4b9f-afba-dbfa84a373e0" />
 
 ## Tech Stack
 `Python 3` `socket` `urllib` `concurrent.futures`
